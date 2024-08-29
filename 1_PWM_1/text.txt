@@ -1,1 +1,0 @@
-The aim of this project is to show how to use the hardware pulse width modulation pins on the Atmega324p microcontroller to generate PWM signal.
