@@ -1,4 +1,4 @@
-# Project: Generation of PWM signals using the Atmega324p Microcontroller
+# Project: Generation of PWM signal using the Atmega324p Microcontroller
 
 ## The aim
 The aim of this project is to show how to use the hardware pulse width modulation pins on the Atmega324p microcontroller to generate PWM signal.
